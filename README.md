@@ -1,4 +1,8 @@
 ## Hi there 👋
+meu nome é Clarissa Oliveira
+## Estou estudando na Alura
+- gosto de gato (não tenho ainda) e de café☕🐱.
+- tentando apreder javascript (odeio).
 
 <!--
 **clarita12348/clarita12348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
